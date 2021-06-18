@@ -1,9 +1,6 @@
 # coronavirus
 
-#### To execute and exploit the program please :
-````
-./principal_covid19.m
-````
+#### To execute the program : execute _./principal_covid19.m_ on matlab
 
 The file covidMAR_150321.xlsx is comprised of the number of new daily cases and new death cases, as well as the dates of these occurrences. 
 
